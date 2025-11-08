@@ -8,6 +8,7 @@ Scraper for public bookshelves (öffentliche Bücherschränke) in Berlin.
 - **API**: https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/rubric.geojson
 - **Format**: GeoJSON
 - **Count**: ~57 public bookshelves across Berlin
+- **Last downloaded**: 08. November 2025
 
 ## Usage
 
