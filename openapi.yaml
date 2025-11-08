@@ -1,0 +1,125 @@
+openapi: 3.0.3
+info:
+  title: Berlin Öffentliche Bücherschränke API
+  description: Public API for accessing data about public bookshelves in Berlin
+  version: 1.0.0
+  contact:
+    url: https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/
+
+servers:
+  - url: https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke
+    description: Production server
+
+paths:
+  /rubric.geojson:
+    get:
+      summary: Get all public bookshelves
+      description: Returns a GeoJSON FeatureCollection of all public bookshelves (Bücherschränke, Bücherzellen, Bücherboxen, Bücherregale) in Berlin
+      operationId: getBookshelves
+      parameters:
+        - name: _rnd
+          in: query
+          description: Random number for cache busting
+          required: false
+          schema:
+            type: string
+            example: "489609"
+      responses:
+        '200':
+          description: Successful response with ~57 bookshelves
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/FeatureCollection'
+
+components:
+  schemas:
+    FeatureCollection:
+      type: object
+      required:
+        - type
+        - features
+      properties:
+        type:
+          type: string
+          enum: [FeatureCollection]
+        properties:
+          type: object
+          properties:
+            title:
+              type: string
+              example: "berlin.de: Öffentliche Bücherschränke"
+            description:
+              type: string
+              example: "Öffentlich zugängliche Bücherschränke, Bücherzellen, Bücherboxen und Bücherregale in Berlin im Überblick."
+        features:
+          type: array
+          description: Array of all public bookshelves in Berlin
+          items:
+            $ref: '#/components/schemas/Feature'
+
+    Feature:
+      type: object
+      required:
+        - type
+        - geometry
+        - properties
+      properties:
+        type:
+          type: string
+          enum: [Feature]
+        geometry:
+          $ref: '#/components/schemas/Point'
+        properties:
+          $ref: '#/components/schemas/BookshelfProperties'
+
+    Point:
+      type: object
+      required:
+        - type
+        - coordinates
+      properties:
+        type:
+          type: string
+          enum: [Point]
+        coordinates:
+          type: array
+          description: "[longitude, latitude] in WGS84 (EPSG:4326)"
+          minItems: 2
+          maxItems: 2
+          items:
+            type: number
+          example: [13.4533, 52.5926]
+
+    BookshelfProperties:
+      type: object
+      properties:
+        title:
+          type: string
+          description: Name of the bookshelf
+          example: "Bücherbox am Mierendorffplatz"
+        url:
+          type: string
+          format: uri
+          description: URL to the detailed page on berlin.de
+        description:
+          type: string
+          description: Description of the bookshelf location and features
+        address:
+          type: string
+          description: Full address including street, city, postal code, and country
+          example: "Mierendorffplatz, Berlin, 10589, Deutschland"
+        image:
+          type: string
+          format: uri
+          nullable: true
+          description: URL to an image of the bookshelf (usually null)
+        modified:
+          type: string
+          format: date-time
+          description: Last modification timestamp (ISO 8601 with timezone)
+          example: "2025-03-13T15:39:58+0100"
+        style:
+          type: string
+          nullable: true
+          description: Custom style information (usually null)

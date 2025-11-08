@@ -1,0 +1,1092 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "title": "berlin.de: Öffentliche Bücherschränke",
+    "description": "Öffentlich zugängliche Bücherschränke, Bücherzellen, Bücherboxen und Bücherregale in Berlin im Überblick."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4533,
+          52.5926
+        ]
+      },
+      "properties": {
+        "title": "Blankenburger Bücherbox",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8178161-8165489-blankenburger-buecherbox.html",
+        "description": "Gut besucht und gut gepflegt: Die Bücherbox im alten Blankenburger Dorfkern lädt zum Büchertausch ein. ",
+        "address": "Alt-Blankenburg 16, Berlin, 13129, Deutschland",
+        "image": null,
+        "modified": "2025-07-31T07:24:58+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3507,
+          52.4146
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox Weskammstraße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/9711868-8165489-buecherbox-weskammstrasse.html",
+        "description": "Die Bücherbox in der Weskammstraße entstand im Rahmen des Programms Stärkung Berliner Großsiedlungen.",
+        "address": "Weskammstraße 15 - 19, Berlin, 12279, Deutschland",
+        "image": null,
+        "modified": "2025-07-30T08:24:45+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3502,
+          52.4086
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox Waldsassener Straße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/9710911-8165489-buecherbox-waldsassener-strasse.html",
+        "description": "Die Bücherbox in der Waldsassener Straße bietet reichlich Lektüre für die lesebegeisterten Nachbar:innen.",
+        "address": "Waldsassener Straße 42A, Berlin, 12279, Deutschland",
+        "image": null,
+        "modified": "2025-07-30T08:23:16+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4802,
+          52.5034
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox auf dem Tuchollaplatz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8204210-8165489-buecherbox-tuchollaplatz-kaskelkiez.html",
+        "description": "Der Tuchollaplatz im Kaskelkiez ist das Zuhause einer kleinen, aber feinen Bücherbox mit integriertem Leseplatz.",
+        "address": "Tuchollaplatz , Berlin, 10317, Deutschland",
+        "image": null,
+        "modified": "2025-07-10T08:27:26+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5,
+          52.506
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox in der Heinrichstraße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8206055-8165489-buecherbox-heinrichstrasse.html",
+        "description": "Die alte Telefonzelle vor dem Kiezgarten Heinrichtreff bietet Bücher in Hülle und Fülle. Wer Bücher loswerden möchte: Spenden sind gern gesehen.",
+        "address": "Heinrichstraße 31, Berlin, 10317, Deutschland",
+        "image": null,
+        "modified": "2025-07-10T08:24:32+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5263,
+          52.4818
+        ]
+      },
+      "properties": {
+        "title": "Bücherbaum auf dem Johannes-Fest-Platz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8186459-8165489-buecherbaum-johannes-fest-platz.html",
+        "description": "Der Bücherbaum wurde längst durch eine umgebaute Telefonzelle ersetzt. Der alte Name ist geblieben.",
+        "address": "Johannes-Fest-Platz , Berlin, 10318, Deutschland",
+        "image": null,
+        "modified": "2025-07-10T08:23:37+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.302,
+          52.5168
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx am Gierkeplatz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/9682813-8165489-b%C3%BCcherboxx-ghierkeplatz.html",
+        "description": "Die Bücherboxx steht vor dem Oberstufenzentrum Kraftfahrzeugtechnik in Charlottenburg.",
+        "address": "Gierkeplatz 1, Berlin, 10585, Deutschland",
+        "image": null,
+        "modified": "2025-05-28T20:41:22+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3119,
+          52.468
+        ]
+      },
+      "properties": {
+        "title": "Lesbar in der Künstlerkolonie Berlin",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/9673129-8165489-lesbar-in-der-kuenstlerkolonie-berlin.html",
+        "description": "Die Bücher-Tauschbox mit dem Namen Lesbar ist ein Projekt des KünstlerKolonie Berlin e.V.",
+        "address": "Steinrückweg 2, Berlin, 14197, Deutschland",
+        "image": null,
+        "modified": "2025-05-22T13:51:36+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4195,
+          52.5381
+        ]
+      },
+      "properties": {
+        "title": "Bücherwald in der Sredzkistraße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8180903-8165489-buecherwald-sredzkistrasse.html",
+        "description": "An der Ecke Sredzkistraße / Kollwitzstraße in Prenzlauer Berg steht ein offener Bücherschrank der ganz besonderen Art.",
+        "address": "Sredzkistraße 48, Berlin, 10435, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:41:01+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2886,
+          52.4583
+        ]
+      },
+      "properties": {
+        "title": "Büchertauschschrank in der Domäne Dahlem",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/9121272-8165489-buechertauschschrank-in-der-domaene-dahl.html",
+        "description": "Der blaue Büchertauschschrank auf der Domäne Dahlem befindet sich direkt am Landgasthaus, gegenüber den Handwerksstätten.",
+        "address": "Königin-Luise-Str. 49, Berlin, 14195, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:40:44+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3478,
+          52.5264
+        ]
+      },
+      "properties": {
+        "title": "Büchertankstelle am LAGeSo",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8180672-8165489-buechertankstelle-lageso.html",
+        "description": "Die Bücher-Tankstelle vor dem LAGeSo-Hochhaus in Moabit ist eine alte Telefonzelle in hübschem Blau mit Büchern aller Genres und manchmal auch Zeitschriften.",
+        "address": "Turmstraße 21, Berlin, 10559, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:40:28+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3046,
+          52.5256
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx am Mierendorffplatz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8165816-8165489-buecherboxx-mierendorffplatz.html",
+        "description": "Die bunte Bücherboxx bietet nicht nur viele Bücher zum ausgiebigen Schmökern, sondern auch die passenden Sitzgelegenheiten.",
+        "address": "Mierendorffplatz , Berlin, 10589 , Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:39:58+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4132,
+          52.506
+        ]
+      },
+      "properties": {
+        "title": "Heinrich's Bücherbox",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8186771-8165489-heinrichs-buecherbox.html",
+        "description": "Die Straßenbibliothek ist in einer alten, sattgrün gestrichenen Telefonzelle zu Hause. ",
+        "address": "Heinrich-Heine-Straße 58-60, Berlin, 10179, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:39:38+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3852,
+          52.5376
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox am Ackerplatz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8178479-8165489-buecherbox-am-ackerplatz.html",
+        "description": "Die blau-grüne Bücherzelle im Brunnenviertel hat schon einen Umzug hinter sich.",
+        "address": "Ackerstraße 117, Berlin, 13355, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:39:22+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4361,
+          52.4461
+        ]
+      },
+      "properties": {
+        "title": "Bücherschrank am Vita e.V. Wohnhaus Alt-Britz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8802049-8165489-buecherschrank-am-vita-ev-wohnhaus-altbr.html",
+        "description": "Der Wohnverbund Neukölln stellt auf dem Gelände des VITA e. V. Wohnhauses einen kleinen Bücherschrank zur Verfügung.",
+        "address": "Alt-Britz  90-92, Berlin, 12359, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:39:07+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4736,
+          52.4653
+        ]
+      },
+      "properties": {
+        "title": "Kinder-Bücherbox in der High-Deck-Siedlung",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8208341-8165489-kinder-buecherbox-high-deck-siedlung.html",
+        "description": "In der knallgrünen Telefonzelle am Michael-Bohnen-Ring stehen Kinder- und Jugendbücher in vielen verschiedenen Sprachen.",
+        "address": "Michael-Bohnen-Ring 52, Berlin, 12057, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:38:52+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5904,
+          52.4422
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox in der Pablo-Neruda-Straße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8206226-8165489-buecherbox-pablo-neruda-strasse.html",
+        "description": "Die Bücherzelle vor der Kita Amtsfelder Knirpse bietet allerhand Bücher zum Lesen, Tauschen und mit nach Hause nehmen.",
+        "address": "Pablo-Neruda-Straße 12-13, Berlin, 12559, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:38:37+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5748,
+          52.4457
+        ]
+      },
+      "properties": {
+        "title": "Offener Bücherschrank im Rathaus Köpenick",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8178104-8165489-offener-buecherschrank-rathaus-koepenick.html",
+        "description": "Der Bücherschrank ist im Warteraum des Bürgeramts I zu den bekannten Öffnungszeiten zugänglich.",
+        "address": "Alt-Köpenick 21, Berlin, 12555, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:38:21+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6456,
+          52.3475
+        ]
+      },
+      "properties": {
+        "title": "Bücherzelle Rauchfangswerder",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8206355-8165489-buecherzelle-rauchfangswerder.html",
+        "description": "Die Bücherzelle neben der Freiwilligen Feuerwehr Rauchfangswerder wird von den Kamerad:innen gepflegt.",
+        "address": "Schmöckwitzer Damm 60, Berlin, 12527, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:38:07+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3526,
+          52.4919
+        ]
+      },
+      "properties": {
+        "title": "Bücheroase",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/9482887-8165489-buecheroase.html",
+        "description": "Im Schöneberger Kiez an der Barbarossastraße haben fleißige Hände eine Telefonzelle in den \"Bücherschrank der Nachbarschaft\" verwandelt.",
+        "address": "Barbarossastraße 65, Berlin, 10781, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:37:52+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.343,
+          52.4493
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx am Markusplatz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8191268-8165489-buecherboxx-am-markusplatz.html",
+        "description": "Die Bücherzelle, die auch Markusboxx genannt wird, kommt mit hübschen Bänkchen und eigenem Solarmodul daher.",
+        "address": "Karl-Stieler-Straße 10, Berlin, 12167, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:37:24+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2662,
+          52.4133
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx am MGH Phoenix",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8205725-8165489-buecherboxx-mgh-phoenix.html",
+        "description": "Am Mehrgenerationenhaus Phoenix am Teltower Damm können Lesefreund:innen kostenlos und unkompliziert Bücher ausleihen, tauschen, mitnehmen und abgeben.",
+        "address": "Teltower Damm 228, Berlin, 14167, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:37:08+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2302,
+          52.5436
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx OSZ TIEM",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8203625-8165489-buecherboxx-osz-tiem.html",
+        "description": "Die gläserne Bücherbox steht in der Cafeteria des Oberstufenzentrums in Spandau.",
+        "address": "Goldbeckweg 8, Berlin, 13599, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:36:51+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2001,
+          52.5347
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox im Rathaus Spandau",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8206478-8165489-buecherbox-rathaus-spandau.html",
+        "description": "Eine britische Telefonzelle, vollgestopft mit Büchern: Im Rathaus Spandau wartet vor allem englischsprachige Literatur auf Lesehungrige.",
+        "address": "Carl-Schurz-Straße 2-6, Berlin, 13597, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:36:35+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2869,
+          52.5785
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox in der Namslaustraße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8165663-8165489-buecherbox-namslaustrasse-meredo.html",
+        "description": "Die Bücherbox hat ihren festen Platz vor Meredo, dem Medienkompetenzzentrum des Bezirksamts Reinickendorf.",
+        "address": "Namslaustraße 45/47, Berlin, 13507, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:36:19+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3716,
+          52.5641
+        ]
+      },
+      "properties": {
+        "title": "Bücherzelle auf dem Letteplatz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8178230-8165489-buecherzelle-letteplatz.html",
+        "description": "Der offene Bücherschrank auf dem Letteplatz wird von ehrenamtlichen Pat:innen gepflegt und befüllt.",
+        "address": "Pankower Allee 53, Berlin, 13409, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:36:03+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3073,
+          52.616
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx am Fellbacher Platz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8176055-8165489-buecherboxx-am-fellbacher-platz.html",
+        "description": "Die Bücherboxx in Hermsdorf ist eine ausrangierte Telefonzelle mit Bänken für's ausgiebige Probelesen. Und was auf die Ohren gibt es auch.",
+        "address": "Fellbacher Platz , Berlin, 13467, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:35:42+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4226,
+          52.5406
+        ]
+      },
+      "properties": {
+        "title": "Bücherfisch am Machmit! Museum",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8181122-8165489-buecherfisch-machmit-museum.html",
+        "description": "Bücher im Bauch, Bücher im Maul: Pelle, der Kinderbüchertauschfisch vor dem Machmit! Museum, bietet vor allem Lesestoff für die Jüngsten.",
+        "address": "Senefelderstraße 5, Berlin, 10437, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:35:24+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4781,
+          52.5498
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx in der Hansastraße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8191391-8165489-buecherboxx-hansastrasse.html",
+        "description": "Die Bücherboxx mit Bank und eigener Solaranlage steht auf dem Nachbarschaftsplatz in der Hansastraße in Weißensee.",
+        "address": "Hansastraße 88, Berlin, 13088, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:35:08+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4484,
+          52.5594
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx der Max-Bill-Schule",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8205830-8165489-b%C3%BCcherboxx-max-bill-schule.html",
+        "description": "Die Bücherzelle steht auf dem Schulhof des OSZ Planen Bauen Gestalten in Weißensee.",
+        "address": "Gustav-Adolf-Straße 66, Berlin, 13086, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:34:53+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4135,
+          52.529
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox am Kindergarten Memento",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8208281-8165489-buecherbox-kita-memento.html",
+        "description": "Die Bücherbox in der Straßburger Straße ist mit Kinderbüchern in vielen Sprachen gefüllt. Das Angebot richtet sich vor allem an die Kita-Kinder und an Familien im Kiez.",
+        "address": "Straßburger Straße 6B, Berlin, 10405, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:34:36+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3793,
+          52.5583
+        ]
+      },
+      "properties": {
+        "title": "Bücherbaum in der Koloniestraße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8191910-8165489-buecherbaum-koloniestra%C3%9Fe.html",
+        "description": "Der Bücherbaum steht vor dem Seniorendomizil an der Panke in Berlin-Gesundbrunnen. ",
+        "address": "Koloniestraße 23, Berlin, 13359, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:34:02+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4303,
+          52.6027
+        ]
+      },
+      "properties": {
+        "title": "Offener Bücherschrank Blankenfelder Straße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8396400-8165489-buecherschrank-blankenfelder-strasse.html",
+        "description": "Am öffentlichen Bücherschrank in der Blankenfelder Straße in Französisch Buchholz zwitschert es: In der Voliere hinterm Zaun sind bunte Loris zu Hause.",
+        "address": "Blankenfelder Straße 4, Berlin, 13127, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:33:46+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4182,
+          52.5076
+        ]
+      },
+      "properties": {
+        "title": "Miki's Bücherbox am Michaelkirchplatz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8203769-8165489-mikis-buecherbox-michaelkirchplatz.html",
+        "description": "Lesen, mitnehmen, tauschen: In der Bücherzelle am Michaelkirchplatz stehen fast immer Bücher in mehreren Sprachen.",
+        "address": "Schmidstraße 3, Berlin, 10179, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:33:30+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3939,
+          52.5562
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox Grüntaler Straße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8205962-8165489-buecherbox-gruentaler-strasse.html",
+        "description": "Booksharing im Soldiner Kiez: Die hellblaue Bücherzelle steht auf der Mittelinsel an der Ecke Grüntaler Straße, Soldiner Straße.",
+        "address": "Grüntaler Straße 41, Berlin, 13359, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:33:14+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386,
+          52.5561
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx Osloer Straße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8203673-8165489-buecherboxx-osloer-strasse.html",
+        "description": "Die Bücherbox vor dem Labyrinth Kindermuseum im Soldiner Kiez erfreut sich großer Beliebtheit.",
+        "address": "Osloer Straße 12, Berlin, 13359, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:32:57+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4045,
+          52.5124
+        ]
+      },
+      "properties": {
+        "title": "Bücherzelle an der Schwimmhalle Fischerinsel",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8178398-8165489-buecherzelle-schwimmhalle-fischerinsel.html",
+        "description": "Der öffentliche Bücherschrank an der Gertraudenstraße bietet zahlreiche Bücher zum Mitnehmen und Ausleihen. Er ist rund um die Uhr zugänglich.",
+        "address": "Fischerinsel 11, Berlin, 10179, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:32:32+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597,
+          52.4794
+        ]
+      },
+      "properties": {
+        "title": "Öffentlicher Bücherschrank Winklerstraße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8191553-8165489-buecherschrank-winklerstrasse-mahlsdorf.html",
+        "description": "Der öffentliche Bücherschrank in Berlin-Mahlsdorf bietet Bücher in Hülle und Fülle.",
+        "address": "Winklerstraße 60, Berlin, 12623, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:32:17+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5881,
+          52.5101
+        ]
+      },
+      "properties": {
+        "title": "Kaulsdorfer Bücherzelle am Wilhelmplatz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8188724-8165489-kaulsdorfer-buecherzelle-wilhelmplatz.html",
+        "description": "Die Bücherzelle ist der erste öffentliche Bücherschrank in Kaulsdorf. Schwerpunkte sind Kinderbücher und Sachbücher.",
+        "address": "Wilhelmplatz , Berlin, 12621, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:31:49+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.489,
+          52.5469
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox am Rosengarten",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8191325-8165489-buecherbox-rosengarten-obersee.html",
+        "description": "Die Bücherbox in Alt-Hohenschönhausen wird vom Förderverein Obersee & Orankesee e.V. gepflegt. Platz zum Lesen gibt es gleich daneben.",
+        "address": "Waldowstraße. Ecke Scharnweberstraße 43, Berlin, 13053, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:30:52+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4831,
+          52.5253
+        ]
+      },
+      "properties": {
+        "title": "Bücherschrank in der Paul-Zobel-Straße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8204267-8165489-buecherschrank-paul-zobel-strasse.html",
+        "description": "Der Bücherschrank aus blau gestrichenem Stahl und Sicherheitsglas bietet Platz für 250 Bücher - und die Gelegenheit, mit anderen ins Gespräch zu kommen.",
+        "address": "Paul-Zobel-Straße 9, Berlin, 10367, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:30:18+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5279,
+          52.5128
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox in der Gensinger Straße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8205644-8165489-buecherbox-gensinger-strasse.html",
+        "description": "Bring eins, nimm eins: Der öffentliche Bücherschrank steht vor der Kita Schlaue Füchse. Das Sortiment ist gut gemischt. Kinderbücher sind natürlich auch darunter.",
+        "address": "Gensinger Straße 60, Berlin, 10317, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:29:59+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5024,
+          52.572
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox Nachbarschaftshaus Ostseeviertel",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8204030-8165489-buecherbox-ostseeviertel.html",
+        "description": "Bücher kostenlos und unkompliziert lesen, ausleihen, tauschen, mitnehmen: Die Bücherbox in der Ribnitzer Straße macht's möglich.",
+        "address": "Ribnitzer Straße 1B, Berlin, 13051, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T15:29:23+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4973,
+          52.5491
+        ]
+      },
+      "properties": {
+        "title": "Bücherbox in der Degnerstraße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8658284-8165489-buecherbox-degnerstrasse-degnerbogen.html",
+        "description": "Dank der Bücherzelle in der Degnerstraße können Lesefreund:innen in Alt-Hohenschönhausen kostenlos und unkompliziert Bücher mitnehmen und tauschen.",
+        "address": "Degnerstraße 36, Berlin, 13053, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T14:47:50+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3143,
+          52.4906
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx am Fehrbelliner Platz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8187212-8165489-buecherboxx-fehrbelliner-platz.html",
+        "description": "Die aussortierte englische Telefonzelle bietet Bücher, Bänke und ein besonders bunt gemischtes Sortiment.",
+        "address": "Fehrbelliner Platz , Berlin, 10707, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T14:47:22+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2931,
+          52.5156
+        ]
+      },
+      "properties": {
+        "title": "Bücherzelle in der Seelingstraße",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8165990-8165489-buecherzelle-seelingstrasse.html",
+        "description": "Im Klausenerplatz-Kiez steht eine alte Telefonzelle mit einer großen Auswahl an Büchern, die kostenlos mitgenommen werden dürfen.",
+        "address": "Seelingstraße 22, Berlin, 14059, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T14:46:57+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2865,
+          52.5369
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx am Halemweg",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8188826-8165489-buecherboxx-halemweg.html",
+        "description": "Kostenlose Bücher gibt es auch in Charlottenburg Nord - in einer Bücherbox im Halemweg.",
+        "address": "Halemweg 17, Berlin, 13627, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T14:46:27+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3152,
+          52.4822
+        ]
+      },
+      "properties": {
+        "title": "Bücherzelle am Haus der Jugend Anne Frank",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8213270-8165489-buecherzelle-anne-frank-haus.html",
+        "description": "Vor dem Haus der Jugend Anne Frank steht eine gut gepflegte Bücherzelle mit einer großen Auswahl an Büchern, Zeitschriften und anderen Medien.",
+        "address": "Mecklenburgische Straße 15, Berlin, 10713, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T14:41:59+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3081,
+          52.5089
+        ]
+      },
+      "properties": {
+        "title": "Bücher-Tausch-Bar Karla",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8191700-8165489-buecher-tausch-bar-karla.html",
+        "description": "Der öffentliche Bücherschrank im Karl-August-Kiez ist ein echtes Unikat.",
+        "address": "Goethestraße 31, Berlin, 10625, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T14:41:39+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2634,
+          52.488
+        ]
+      },
+      "properties": {
+        "title": "Bücherboxx am Gleis 17",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8186858-8165489-buecherboxx-gleis-17.html",
+        "description": "Die Bücherbox am S-Bahnhof Grunewald ist eine ganz besondere.",
+        "address": "Am Bahnhof Grunewald , Berlin, 14193, Deutschland",
+        "image": null,
+        "modified": "2025-03-13T14:37:46+0100",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406,
+          52.4889
+        ]
+      },
+      "properties": {
+        "title": "Lesekiosk am Südstern",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8181323-8165489-lesekiosk-suedstern.html",
+        "description": "Der Lesekiosk beherbergt Bücher aller Art, vom Krimi über den Liebesroman bis zum Kochbuch. Zwei Bänke aus Holz an seinen Seiten laden zum Schmökern ein.",
+        "address": "Südstern , Berlin, 10961, Deutschland",
+        "image": null,
+        "modified": "2024-08-07T09:20:58+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1932,
+          52.5201
+        ]
+      },
+      "properties": {
+        "title": "Spandauboxx auf dem Földerichplatz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8181248-8165489-spandauboxx-foelderichplatz.html",
+        "description": "Die alte, mit Büchern gefüllte Telefonzelle steht auf dem Földerichplatz, Ecke Adam- und Földerichstraße im Spandauer Ortsteil Wilhelmstadt.",
+        "address": "Földerichplatz , Berlin, 13595, Deutschland",
+        "image": null,
+        "modified": "2024-04-29T15:40:33+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3563,
+          52.6198
+        ]
+      },
+      "properties": {
+        "title": "Fernsprecher in Alt-Lübars",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8178590-8165489-fernsprecher-alt-luebars.html",
+        "description": "Gut zu wissen für Reinickendorfer Leseratten: Die umgebaute, historische Telefonzelle in Alt-Lübars ist meist gut befüllt.",
+        "address": "Alt-Lübars 8, Berlin, 13469, Deutschland",
+        "image": null,
+        "modified": "2024-04-29T15:38:00+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3389,
+          52.5582
+        ]
+      },
+      "properties": {
+        "title": "Biblioboxx am Centre Français",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8187029-8165489-biblioboxx-centre-francais.html",
+        "description": "Die Bücherbox steht direkt neben dem Berliner Eiffelturm. Schwerpunkt sind französischsprachige Bücher.",
+        "address": "Müllerstraße 74, Berlin, 13349, Deutschland",
+        "image": null,
+        "modified": "2024-04-29T14:59:58+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.291,
+          52.5039
+        ]
+      },
+      "properties": {
+        "title": "KunoBox",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8178314-8165489-kunobox.html",
+        "description": "Die grüne Bücherzelle wurde von der Hausgemeinschaft aufgestellt und ist zu den Öffnungszeiten der Rösterei zugänglich.",
+        "address": "Kuno-Fischer-Straße 15, Berlin, 14057, Deutschland",
+        "image": null,
+        "modified": "2024-04-29T14:21:02+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3193,
+          52.4893
+        ]
+      },
+      "properties": {
+        "title": "Bücherzelle auf dem Leon-Jessel-Platz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8188778-8165489-buecherzelle-leon-jessel-platz.html",
+        "description": "Die Bücherzelle im Jesselkiez kommt mit angebauter Bank daher. Und besonders hübsch ist sie auch.",
+        "address": "Leon-Jessel-Platz , Berlin, 10713, Deutschland",
+        "image": null,
+        "modified": "2024-04-29T14:20:37+0200",
+        "style": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3149,
+          52.4736
+        ]
+      },
+      "properties": {
+        "title": "Villa Libris am Rüdesheimer Platz",
+        "url": "https://www.berlin.de/special/sharing/oeffentliche-buecherschraenke/8181389-8165489-villa-libris-ruedesheimer-platz.html",
+        "description": "Die Bücherbox steht an der Ecke Rüdesheimer Straße und Eberbacher Straße. Die umgebaute Telefonzelle bietet außer Büchern auch Sitzgelegenheiten.",
+        "address": "Rüdesheimer Platz 6, Berlin, 14197, Deutschland",
+        "image": null,
+        "modified": "2024-04-29T14:20:10+0200",
+        "style": null
+      }
+    }
+  ]
+}
